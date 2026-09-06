@@ -1,0 +1,23 @@
+{
+  "repo": "faststone-image-viewer-pro-edition-2026",
+  "product": "FastStone Image Viewer Pro Edition 2026",
+  "kind": "design",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "design",
+  "topics": [
+    "faststone-image-viewer",
+    "photo-viewer",
+    "screen-capture-lite",
+    "compare-images",
+    "lossless-crop",
+    "faststone-setup-failed-fix",
+    "how-to-install-faststone",
+    "faststone-windows",
+    "faststone-desktop-2026",
+    "faststone-desktop-package"
+  ],
+  "site": "toolix.me"
+}
